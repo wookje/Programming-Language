@@ -1,0 +1,16 @@
+# 논리기호 정리
+
+¬ : NOT (부정)
+∧ : AND (논리곱)
+∨ : OR (논리합)
+⊕ : XOR (배타적 논리합)
+⊤ : top, verum (항진, 언제나 참)
+⊥ : bottom, falsum (모순, 언제나 거짓)
+∀ : for all; for any; for each; (전칭)
+∃ : there exists (존재)
+∃! : there exists exactly one (유일)
+:= : is defined as (정의)
+⊢ : provable (turnstile)
+> x ⊢ y 는 y가 x에서 증명가능하다는 뜻이다.
+⊨ : entails (double turnstile)
+> x ⊨ y 는 x가 의미론적으로 y를 수반한다는 뜻이다.
